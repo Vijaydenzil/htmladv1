@@ -1,0 +1,95 @@
+.imgt{
+   width: 950px;
+   height: 505px;
+   margin-top: 0.5cm;
+   border-radius: 2cm;
+   margin-inline-start: 5cm;
+}
+h1{
+    font-weight: bold;
+    font-size: xxx-large;
+    font-style: italic
+    margin-block-start: 0.5cm;
+    margin-block-end: 1cm;
+    margin-inline-start: 1cm;
+}
+h3{
+    font-style: italic;
+    margin-inline-start: 15cm;
+   
+}
+h2{
+    font-style: italic;
+    margin-inline-start: 9cm;  
+}
+p1{
+    font-size: x-large;
+margin-inline-start: 1.5cm;
+margin-inline-end: 1cm;
+float: right;
+font-style: italic;
+margin-bottom: 1cm;
+
+}
+
+.imgz{
+    width: 400px;
+    height: 300px;
+    object-fit: unset;
+    
+}
+.imgx{
+    width: 400px;
+    height: 300px;
+    object-fit:cover ;
+}
+.imga{
+    width: 350px;
+    height: 250px;
+    object-fit:cover ;
+    
+}
+.imgc{
+    width: 350px;
+    height: 250px;
+    object-fit:cover;
+    margin-inline-start: 3px ;
+}
+.imgi{
+    width: 350px;
+    height: 250px;
+    margin-inline-start: 3px;
+}
+h4{
+    font-style: italic;
+    color: white;
+    
+}
+p2{
+    font-size: x-large;
+margin-inline-start: 1.5cm;
+margin-inline-end: 1cm;
+float: right;
+font-style: italic;
+margin-bottom: 1cm;
+}
+P3{
+    font-size: xx-large;
+    margin-inline-start: 1.5cm;
+    margin-inline-end: 1cm;
+    float: right;
+    font-style: italic;
+    margin-bottom: 1cm;    
+}
+p4{
+    font-size: x-large;
+    margin-inline-start: 1.5cm;
+    margin-inline-end: 1cm;
+    float: right;
+    font-style: italic;
+    margin-bottom: 1cm;     
+}
+
+body{
+    background-image: url("images/james-lee-hla7cYQZJY0-unsplash.jpg");
+}
